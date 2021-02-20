@@ -1,6 +1,3 @@
-//Name: Amish Bisaria
-//NetID: axb180097
-
 package com.company;
 import java.text.DecimalFormat;
 import java.util.Random;
